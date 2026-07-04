@@ -62,4 +62,4 @@ Continued use of the app after changes constitutes acceptance.
 
 ## Contact
 
-Questions: dcgfactory@gmail.com
+Questions: dieguz80@gmail.com
