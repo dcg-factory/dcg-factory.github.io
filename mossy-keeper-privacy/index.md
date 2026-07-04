@@ -6,7 +6,7 @@ title: Mossy Keeper — Privacy Policy
 
 **Last updated:** July 2026
 **Data controller:** DCG Factory (sole developer: Diego Capizzano)
-**Contact:** dcgfactory@gmail.com
+**Contact:** dieguz80@gmail.com
 
 ## What this app collects
 
